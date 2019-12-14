@@ -25,6 +25,6 @@
     "babel-preset-react": "^6.24.1",
     "parcel-bundler": "^1.12.4"
   },
-  "repository": "git@github.com:jmshanahan/parcel-template.git",
-  "author": "jmshanahan <comeraghsolutions@gail.com>"
+  "author": "jmshanahan <comeraghsolutions@gail.com>",
+  "repository": "git@github.com:jmshanahan/react-hooks-fetch.git"
 }
