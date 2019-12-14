@@ -1,0 +1,30 @@
+{
+  "name": "parcel-template",
+  "version": "1.0.0",
+  "description": "A simple react template.",
+  "keywords": [
+    "react",
+    "reactjs",
+    "parcel"
+  ],
+  "main": "./src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build ./src/index.html",
+    "start": "parcel ./src/index.html -p 1337"
+  },
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "repository": "git@github.com:jmshanahan/parcel-template.git",
+  "author": "jmshanahan <comeraghsolutions@gail.com>"
+}
